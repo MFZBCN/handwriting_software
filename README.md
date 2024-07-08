@@ -27,3 +27,4 @@ IMPORTANT: After EACH exercise, you must click the "Save" button.
 Data
 All data is saved in the "data" folder located in the same folder as the application.
  
+![HandWritingCapturePressure](https://github.com/MFZBCN/handwriting_software/blob/online-signal-acquisition/screenshot.png)
