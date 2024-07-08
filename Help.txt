@@ -1,0 +1,62 @@
+HandWriting Capture V1.0
+Grup de Tractament del Senyal. Tecnocampus Mataró Maresme
+
+Instrucciones de Instalación
+----------------------------
+
+1.- Si los drivers de la tableta Wacom no han sido instalados con anterioridad: 
+	Descargar y instalar los drivers (WacomTablet_634-3)
+	En la dirección http://www.wacom.com/support/drivers
+	- Selecionar el "Tablet Model" Intuos 4 y el Sistema operativo pertinente 
+	- Una vez instalados los drivers contecar la tableta, abrir la configuración de los drivers (Inicio-->Todos los programas --> Tableta Wacom --> propiedades de la tableta waco) y acercar el lápiz a la tableta.
+
+2.- Ejecutar (doble-click sobre) el fichero vcredist_x86
+
+
+Uso de la aplicacion: HandWritingCapture
+----------------------------------------
+(El uso es muy parecido al programa que habiamos distribuido anteriormente)
+
+1.- Ejectutar (doble-click sobre) el fichero HandWritingCapture
+2.- Crear/cargar un usuario.
+	+ Hacer click sobre el boton "Create/load CASE" situado en el lado izquierdo superior de la panta
+	+ Rellenar los campos deseados:
+		- El identificador de usuario nuevo se establece automaticamente.
+		- Si se desea cargar un usuario conocido introducir su identificador en el campo "Case Identifier"
+3.- El usuario realiza un ejercicio escribiendo con la tableta
+4.- Si el ejercicio se ha realizado correctamente hacer click en el boton "Save" o apretar las teclas "Ctrl+s"
+5.- Si se considera que el ejercicio no se ha realizado correctamente hacer click en el boton  "Delete" apretar las teclas "Ctrl+d"
+
+IMPORTANTE: después de CADA ejercicio si debe apretar el boton "Save"
+
+
+Los datos
+---------
+Todos los datos quedan guardados en la carpeta "data" situada en la misma carpeta que la aplicación
+
+
+Installation Instructions
+If the Wacom tablet drivers have not been installed previously:
+
+Download and install the drivers (WacomTablet_634-3) from the website: http://www.wacom.com/support/drivers.
+Select the "Tablet Model" Intuos 4 and the relevant operating system.
+Once the drivers are installed, connect the tablet, open the driver configuration (Start --> All Programs --> Wacom Tablet --> Wacom Tablet Properties), and bring the pen close to the tablet.
+Run (double-click on) the file vcredist_x86.
+
+Using the Application: HandWritingCapture
+(The usage is very similar to the program we had distributed previously)
+
+Run (double-click on) the file HandWritingCapture.
+Create/load a user.
+Click on the "Create/load CASE" button located in the upper left side of the screen.
+Fill in the desired fields:
+The new user identifier is set automatically.
+If you want to load an existing user, enter their identifier in the "Case Identifier" field.
+The user performs an exercise by writing with the tablet.
+If the exercise has been completed correctly, click the "Save" button or press "Ctrl+s".
+If the exercise is considered incorrect, click the "Delete" button or press "Ctrl+d".
+IMPORTANT: After EACH exercise, you must click the "Save" button.
+
+Data
+All data is saved in the "data" folder located in the same folder as the application.
+ 
