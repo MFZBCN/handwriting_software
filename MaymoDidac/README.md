@@ -1,5 +1,5 @@
 # MaymoDidacTesis
-End of Degree Thesis.
+Bachelor Degree Thesis. This is a copy of Didac's github: https://github.com/DidacMaymo/MaymoDidacTesis
 
 The purpose of this project is to develop a sequence of applications that will obtain data from a person’s eye movement using a Tobii Pro Glasses 3 device, while performing a writing test with a Wacom Cintiq graphic tablet.
 
