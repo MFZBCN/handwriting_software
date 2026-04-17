@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated publication."
+title: "handwriting_software"
+type: software
+authors:
+  - family-names: "Bertran-Capdevila"
+    given-names: "Roger"
+  - family-names: "Sesa-Nogueras"
+    given-names: "Enric"
+  - family-names: "Faundez-Zanuy"
+    given-names: "Marcos"
+repository-code: "https://github.com/MFZBCN/handwriting_software"
+preferred-citation:
+  type: paper-conference
+  authors:
+    - family-names: "Bertran-Capdevila"
+      given-names: "Roger"
+    - family-names: "Sesa-Nogueras"
+      given-names: "Enric"
+    - family-names: "Faundez-Zanuy"
+      given-names: "Marcos"
+  title: "SVC ANALYTICS: A Software for Plotting and Extracting Features from Online Handwriting Signals"
+  year: 2019
+  conference:
+    name: "2019 42nd International Conference on Telecommunications and Signal Processing (TSP)"
+  conference-place: "Budapest, Hungary"
+  start: 378
+  end: 382
+  doi: "10.1109/TSP.2019.8768880"
